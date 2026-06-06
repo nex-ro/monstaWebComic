@@ -1,55 +1,68 @@
 {
-  "manga_id": "MNG-2024-0089",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Dragonslayer's Class Regression / 용살자의 클래스가 다른 회귀",
-  "status": "Ongoing",
-  "author": "Hectopascal (헥토파스칼)",
-  "artist": "Studio Team (KakaoPage)",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "System"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Zeke Draker, keturunan langsung pertama dari keluarga Dragon Slayer yang gagal membangkitkan bakat bertarungnya. Alih-alih menjadi pendekar pedang, ia justru memiliki bakat sebagai Healer, membuat dirinya diusir dan dicampakkan oleh keluarganya. Setelah berjuang keras demi menjadi lebih kuat hingga menemui ajalnya yang tragis, sebuah pesan misterius muncul di hadapannya: 'Jiwa Elder Dragon terukir pada kehendak mereka yang bertahan. Kekuatan janji yang tidak dapat diubah sedang diaktifkan.' Saat terbangun, Zeke menyadari dirinya telah kembali ke masa lalu 20 tahun yang lalu, tepat di masa keluarga Draker membuangnya. Berbekal kekuatan abadi yang baru, legenda baru seorang Dragon Slayer dengan kelas yang berbeda dimulai.",
-  "cover_url": "https://example-manga-storage.com/covers/a-dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Prologue: Kegagalan sang Dragonslayer",
-      "raw_image_links": [
-        "https://example-manga-storage.com/raw/adpr/ch1/001.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch1/002.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch1/003.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch1/004.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch1/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kembali ke 20 Tahun Lalu",
-      "raw_image_links": [
-        "https://example-manga-storage.com/raw/adpr/ch2/001.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch2/002.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch2/003.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch2/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": 3,
-      "chapter_title": "Bakat Healer yang Berbeda",
-      "raw_image_links": [
-        "https://example-manga-storage.com/raw/adpr/ch3/001.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch3/002.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch3/003.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch3/004.jpg",
-        "https://example-manga-storage.com/raw/adpr/ch3/005.jpg"
-      ]
-    }
-  ]
+  "manga_id": "MNG-2024-0089",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Dragonslayer's Class Regression / 용살자의 클래스가 다른 회귀",
+  "status": "Ongoing",
+  "author": "Hectopascal (헥토파스칼)",
+  "artist": "Studio Team (KakaoPage)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "System"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Zeke Draker, keturunan langsung pertama dari keluarga Dragon Slayer yang gagal membangkitkan bakat bertarungnya. Alih-alih menjadi pendekar pedang, ia justru memiliki bakat sebagai Healer, membuat dirinya diusir dan dicampakkan oleh keluarganya. Setelah berjuang keras demi menjadi lebih kuat hingga menemui ajalnya yang tragis, sebuah pesan misterius muncul di hadapannya: 'Jiwa Elder Dragon terukir pada kehendak mereka yang bertahan. Kekuatan janji yang tidak dapat diubah sedang diaktifkan.' Saat terbangun, Zeke menyadari dirinya telah kembali ke masa lalu 20 tahun yang lalu, tepat di masa keluarga Draker membuangnya. Berbekal kekuatan abaru yang baru, legenda baru seorang Dragon Slayer dengan kelas yang berbeda dimulai.",
+  "cover_url": "https://example-manga-storage.com/covers/a-dragonslayers-peerless-regression.jpg",
+  "assets": {
+    "chapter_1": {
+      "chapter_title": "Prologue: Kegagalan sang Dragonslayer",
+      "cbz_url": "https://raw.githubusercontent.com/nex-ro/monstaWebComic/main/database/assets/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+    },
+    "chapter_2": {
+      "chapter_title": "Kembali ke 20 Tahun Lalu",
+      "cbz_url": "https://raw.githubusercontent.com/nex-ro/monstaWebComic/main/database/assets/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+    },
+    "chapter_3": {
+      "chapter_title": "Bakat Healer yang Berbeda",
+      "cbz_url": "https://raw.githubusercontent.com/nex-ro/monstaWebComic/main/database/assets/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+    }
+  },
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Prologue: Kegagalan sang Dragonslayer",
+      "raw_image_links": [
+        "https://example-manga-storage.com/raw/adpr/ch1/001.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch1/002.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch1/003.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch1/004.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch1/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kembali ke 20 Tahun Lalu",
+      "raw_image_links": [
+        "https://example-manga-storage.com/raw/adpr/ch2/001.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch2/002.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch2/003.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch2/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Bakat Healer yang Berbeda",
+      "raw_image_links": [
+        "https://example-manga-storage.com/raw/adpr/ch3/001.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch3/002.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch3/003.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch3/004.jpg",
+        "https://example-manga-storage.com/raw/adpr/ch3/005.jpg"
+      ]
+    }
+  ]
 }
-ubah ini menjadi list comic saja pastikan gambarnya dari google masukan linknya 
